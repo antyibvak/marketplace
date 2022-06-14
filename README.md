@@ -40,3 +40,6 @@ $ npx hardhat node
 
 ### 7. Launch Frontend
 `$ npm run start`
+
+### 8. Link to Deployed Project
+- https://main--astonishing-lolly-b9fed0.netlify.app/my-listed-items
